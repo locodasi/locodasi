@@ -1,8 +1,13 @@
+
+<div align="center">
+
+<img src="https://github.com/locodasi.png" width="150" height="150" style="border-radius: 50px" alt="Foto de Lucas">
+
 # 👋 ¡Hola! Soy Lucas.
 
-🚀 Desarrollador Fullstack 
-📍 Argentina. 
-📫 Contacto: fradkinlucas@hotmail.com  
+🚀 Desarrollador Fullstack  
+📍 Argentina  
+📫 Contacto: [fradkinlucas@hotmail.com](mailto:fradkinlucas@hotmail.com)  
 
 ## 📌 Tecnologías y herramientas  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
@@ -12,18 +17,25 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-  
 ## 📈 Estadísticas  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=locodasi&show_icons=true&theme=dark)
-  
+
 ## 📌 Proyectos destacados  
 🔹 [Paint](https://github.com/locodasi/Painter)  
-🔹 [Pagina universitaria](https://github.com/locodasi/GestionUniversitariaWeb) 
+🔹 [Pagina universitaria](https://github.com/locodasi/GestionUniversitariaWeb)  
 🔹 [Sistema de mensajeria](https://github.com/locodasi/Messaging-system)  
 
 ## 🌍 Conéctate conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-da-silva-fradkin-200164261/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fradkinlucas@hotmail.com)  
-[![Web](https://img.shields.io/badge/Mi_Web-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)](https://lucasdasilva.netlify.app)  
+<p style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/lucas-da-silva-fradkin-200164261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:fradkinlucas@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://lucasdasilva.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Mi_Web-FF7139?style=flat&logo=Firefox-Browser&logoColor=white" alt="Mi Web">
+  </a>
+</p>
 
-
+</div>
