@@ -1,15 +1,14 @@
-
 <div align="center">
-
+  
 ![Foto de Lucas](https://github.com/locodasi.png?s=150&v=4)
 
-# 👋 ¡Hola! Soy Lucas.
-
+# 👋 ¡Hola! Soy Lucas
+  
 🚀 Desarrollador Fullstack  
 📍 Argentina  
 📫 Contacto: [fradkinlucas@hotmail.com](mailto:fradkinlucas@hotmail.com)  
 
-## 📌 Tecnologías y herramientas  
+## 🛠️ Tecnologías y herramientas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -18,16 +17,19 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 <!--
-## 📈 Estadísticas  
+## 📊 Estadísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=locodasi&show_icons=true&theme=dark)
 -->
 
-## 📌 Proyectos destacados  
-🔹 [Paint](https://github.com/locodasi/Painter)  
-🔹 [Pagina universitaria](https://github.com/locodasi/GestionUniversitariaWeb)  
-🔹 [Sistema de mensajeria](https://github.com/locodasi/Messaging-system)  
+## 🌟 Proyectos destacados
+<div align="left">
+  
+- **[Paint](https://github.com/locodasi/Painter)**: Una aplicación estilo paint desarollada en c#.
+- **[Página universitaria](https://github.com/locodasi/GestionUniversitariaWeb)**: Plataforma web para la gestión universitaria.
+- **[Sistema de mensajería](https://github.com/locodasi/Messaging-system)**: Sistema de mensajería instantánea desarrollado con Node.js y GraphQL.
+</div>
 
-## 🌍 Conéctate conmigo  
+## 🌐 Conéctate conmigo
 <p style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/lucas-da-silva-fradkin-200164261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
