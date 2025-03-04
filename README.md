@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://github.com/locodasi.png" width="150" height="150" style="border-radius: 50px" alt="Foto de Lucas">
+![Foto de Lucas](https://github.com/locodasi.png?s=150&v=4)
 
 # 👋 ¡Hola! Soy Lucas.
 
@@ -17,8 +17,10 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+<!--
 ## 📈 Estadísticas  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=locodasi&show_icons=true&theme=dark)
+-->
 
 ## 📌 Proyectos destacados  
 🔹 [Paint](https://github.com/locodasi/Painter)  
