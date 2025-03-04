@@ -1,15 +1,17 @@
 # 👋 ¡Hola! Soy Lucas.
 
-🚀 Desarrollador [Frontend | Backend | Fullstack]  
-📍 [Tu ubicación o disponibilidad]  
-💡 Interesado en: [Temas de interés como IA, Web3, Open Source]  
-📫 Contacto: [Email, Twitter, LinkedIn]  
+🚀 Desarrollador Fullstack 
+📍 Argentina. 
+📫 Contacto: fradkinlucas@hotmail.com  
 
 ## 📌 Tecnologías y herramientas  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
   
 ## 📈 Estadísticas  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=locodasi&show_icons=true&theme=dark)
@@ -19,6 +21,8 @@
 🔹 [Proyecto 2](https://github.com/tu-usuario/proyecto2)  
 
 ## 🌍 Conéctate conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-da-silva-fradkin-200164261/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fradkinlucas@hotmail.com)  
+[![Web](https://img.shields.io/badge/Mi_Web-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)](https://lucasdasilva.netlify.app)  
+
 
