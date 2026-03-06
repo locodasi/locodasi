@@ -1,5 +1,7 @@
 <div align="center">
 
+![Foto de Lucas](https://github.com/locodasi.png?s=150&v=4)
+
 # 👋 ¡Hola! Soy Lucas
   
 🚀 Desarrollador Fullstack  
@@ -18,8 +20,6 @@
 ## 📊 Estadísticas
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/locodasi?cardType=github&theme=gruvbox&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
   
-![Foto de Lucas](https://github.com/locodasi.png?s=150&v=4)
-
 ## 🌟 Proyectos destacados
 <div align="left">
   
