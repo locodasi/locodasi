@@ -1,12 +1,13 @@
-<div align="center">
 
 ![Foto de Lucas](https://github.com/locodasi.png?s=150&v=4)
 
-# 👋 ¡Hola! Soy Lucas
-  
-🚀 Desarrollador Fullstack  
+# 👋 Hola, soy Lucas
+
+💻 Fullstack Developer  
+⚡ JavaScript | TypeScript | React | Node.js | Python  
 📍 Argentina  
-📫 Contacto: [fradkinlucas@hotmail.com](mailto:fradkinlucas@hotmail.com)  
+
+Siempre construyendo cosas nuevas 🚀
 
 ## 🛠️ Tecnologías y herramientas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
@@ -16,10 +17,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-
 ## 📊 Estadísticas
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/locodasi?cardType=github&theme=gruvbox&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-  
+
 ## 🌟 Proyectos destacados
 <div align="left">
   
@@ -41,4 +41,3 @@
   </a>
 </p>
 
-</div>
