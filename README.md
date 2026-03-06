@@ -18,10 +18,11 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<!--
+
 ## 📊 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=locodasi&show_icons=true&theme=dark)
--->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/locodasi?cardType=github&theme=gruvbox&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+  
+![Foto de Lucas](https://github.com/locodasi.png?s=150&v=4)
 
 ## 🌟 Proyectos destacados
 <div align="left">
